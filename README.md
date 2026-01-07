@@ -13,7 +13,7 @@
 
 ## Homebrew Apps
 ```zsh
-brew install atuin btop lnav scrcpy starship tmux
+brew install atuin btop lnav scrcpy starship tmux zsh-autosuggestions
 ```
 - [atuin](https://github.com/atuinsh/atuin)
 - [btop](https://github.com/aristocratos/btop)
