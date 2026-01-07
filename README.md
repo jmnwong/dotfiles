@@ -13,12 +13,19 @@
 
 ## Homebrew Apps
 ```zsh
-brew install lnav atuin btop scrcpy starship tmux
+brew install atuin btop lnav scrcpy starship tmux
 ```
+- [atuin](https://github.com/atuinsh/atuin)
+- [btop](https://github.com/aristocratos/btop)
+- [lnav](https://lnav.org/)
+- [scrcpy](https://github.com/Genymobile/scrcpy)
+- [starship](http://starship.rs/)
+- [tmux](https://github.com/tmux/tmux/wiki/Getting-Started)
+
 
 ## Vim Plugins
 
-- (NERDTree)[https://github.com/preservim/nerdtree]
+- [NERDTree](https://github.com/preservim/nerdtree)
 ```zsh
 # NERDTree
 git clone https://github.com/preservim/nerdtree.git ~/.vim/pack/vendor/start/nerdtree
