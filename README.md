@@ -21,7 +21,7 @@ brew install atuin btop lnav scrcpy starship tmux zsh-autosuggestions
 - [scrcpy](https://github.com/Genymobile/scrcpy)
 - [starship](http://starship.rs/)
 - [tmux](https://github.com/tmux/tmux/wiki/Getting-Started)
-
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/tree/master)
 
 ## Vim Plugins
 
