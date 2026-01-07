@@ -1,21 +1,22 @@
 # dotfiles
 
 - ghostty config
-- vimrc
-- zshrc
+- ~/.vimrc
+- ~/.tmux.conf
+- ~/.zshrc
 
-# Utilities
+## Utilities
 ```zsh
 # Homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-# Homebrew Apps
+## Homebrew Apps
 ```zsh
-brew install lnav atuin btop scrcpy starship
+brew install lnav atuin btop scrcpy starship tmux
 ```
 
-# Vim Plugins
+## Vim Plugins
 
 - (NERDTree)[https://github.com/preservim/nerdtree]
 ```zsh
