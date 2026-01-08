@@ -1,5 +1,6 @@
 # Path overrides
-export PATH="/opt/homebrew/bin:$PATH"
+export PATH="/opt/homebrew/bin:$PATH"  # homebrew
+export PATH="$HOME/.local/bin:$PATH"  # other stuff like cursor agent
 
 # Useful aliases
 alias gw="./gradlew"
