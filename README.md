@@ -23,8 +23,14 @@ brew install atuin btop lnav scrcpy starship tmux zsh-autosuggestions
 - [tmux](https://github.com/tmux/tmux/wiki/Getting-Started)
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/tree/master)
 
-## Vim Plugins
+## Install uv for Python
 
+- https://github.com/astral-sh/uv
+```
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+## Vim Plugins
 - [NERDTree](https://github.com/preservim/nerdtree)
 ```zsh
 # NERDTree
