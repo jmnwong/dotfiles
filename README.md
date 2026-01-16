@@ -13,11 +13,14 @@
 
 ## Homebrew Apps
 ```zsh
-brew install atuin btop figlet lnav scrcpy starship tmux zsh-autosuggestions
+brew install atuin btop figlet kotlin lnav scrcpy starship tmux zsh-autosuggestions
+brew install --cask android-platform-tools
 ```
+- [android-platform-tools](https://developer.android.com/tools/releases/platform-tools)
 - [atuin](https://github.com/atuinsh/atuin)
 - [btop](https://github.com/aristocratos/btop)
 - [figlet](https://www.figlet.org/)
+- [kotlin](https://kotlinlang.org/)
 - [lnav](https://lnav.org/)
 - [scrcpy](https://github.com/Genymobile/scrcpy)
 - [starship](http://starship.rs/)
