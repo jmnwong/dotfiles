@@ -5,6 +5,10 @@ export PATH="$HOME/.local/bin:$PATH"  # other stuff like cursor agent
 # Useful aliases
 alias gw="./gradlew"
 
+# Android
+export ANDROID_HOME=~/Library/Android/sdk
+export ANDROID_SDK_ROOT=~/Library/Android/sdk
+
 # Configure shell apps
 eval "$(starship init zsh)"
 eval "$(atuin init zsh)"
