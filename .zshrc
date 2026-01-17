@@ -4,6 +4,8 @@ export PATH="$HOME/.local/bin:$PATH"  # other stuff like cursor agent
 
 # Useful aliases
 alias gw="./gradlew"
+alias gco='git checkout'
+alias gb='git branch'
 
 # Android
 export ANDROID_HOME=~/Library/Android/sdk
